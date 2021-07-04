@@ -1,0 +1,66 @@
+/* Class */
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.btn{
+    margin: 50px 30px auto auto;
+}
+
+.navbar-nav{
+    font-size: 1.5rem;
+}
+
+.h3-about{
+    font-family: "Montserrat";
+    font-style: oblique;
+    font-size: 1.5rem;
+}
+
+.p-about{
+    color: #8F8F8F;
+}
+
+.icon-about{
+    margin-bottom: 7px;
+    color: #EF8172;
+}
+
+.icon-about:hover{
+    color: #ff4c68;
+}
+
+.div-about{
+    text-align: center;
+}
+/* ID */
+
+#principalPage{
+    margin-top: 80px;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+#meetDogs{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 2;
+    color: white;
+}
+
+#dog-phone{
+    transform: rotate(25deg);
+}
+
+#about{
+    padding: 7% 15%;
+}
